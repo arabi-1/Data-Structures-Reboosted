@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-class Solution {
+class winner_of_bowling_game{
     public int winningPlayerCount(int n, int[][] pick) {
         // Array of Maps to store color counts for each player
         // counts[i] maps ColorID -> Frequency for player i
